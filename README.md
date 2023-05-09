@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a simple website layout of a blog site that specializes in cryptocurrency that allows users to follow other people, post their thoughts, comment on others' links and posts, and keep up with the currency. The purpose of this site is to display design and layout skills as well as HTML and CSS skills.
+This is a simple website layout of a blog site that specializes in cryptocurrency that allows users to read up on articles talking about cryptocurrency, see people's twitter posts about the currency and keep up with the different versions of the currency. The purpose of this site is to display design and layout skills as well as HTML and CSS skills.
 
 ## Table of Contents
 
